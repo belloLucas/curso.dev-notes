@@ -1,0 +1,3 @@
+É importante destacar a diferença entre o tópico de **Arquitetura de Software** e o tópico de **Organização de Pastas**. É totalmente possível implementar arquiteturas como MVC ou mesmo Clean Architecture em projetos que contém todos os arquivos dentro de uma mesma pasta, ou mesmo em um software que foi todo escrito em um único arquivo. 
+
+O que define a arquitetura do software é o **escopo dos componentes** (onde eles começam e terminam) somando com o tipo de **interação** entre eles.
